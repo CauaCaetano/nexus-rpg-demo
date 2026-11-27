@@ -1,0 +1,15 @@
+{
+  "contador-rodadas": {
+    "aba": "Rodadas",
+    "rodada": "Rodada {n}",
+    "rodadaAtual": "Combate na rodada {n}",
+    "semCombate": "Sem combate agora",
+    "vazio": "As rodadas do combate aparecem aqui.",
+    "mensagem": "Contador: rodada {n}, {tempo} de combate.",
+    "config": {
+      "anunciar": "Anunciar cada rodada no chat",
+      "anunciarDica": "O navegador do mestre escreve a rodada e o tempo de combate no chat.",
+      "avisoLocal": "Aviso na tela a cada rodada (só para mim)"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Como usar o contador de rodadas",
+    "data": { "kind": "text", "content": "<h2>Contador de rodadas</h2><p>Comece um combate e passe os turnos. A cada rodada nova o mestre escreve no chat a rodada e o tempo de combate (6 s por rodada, configurável no relógio do mundo).</p>" }
+  }
+]

@@ -1,1 +1,0 @@
-export{n as opcoes}from"./opcoes-BGvhETfR.js";

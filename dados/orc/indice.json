@@ -1,0 +1,20 @@
+{
+  "origem": "github.com/foundryvtt/pf2e (packs/pf2e)",
+  "licenca": "ORC",
+  "livros": [
+    "Player Core",
+    "GM Core",
+    "Monster Core"
+  ],
+  "quantidades": {
+    "criaturas": 490,
+    "magias": 492,
+    "equipamento": 968,
+    "talentos": 848,
+    "ancestralidades": 8,
+    "herancas": 49,
+    "antecedentes": 40,
+    "classes": 8,
+    "condicoes": 42
+  }
+}

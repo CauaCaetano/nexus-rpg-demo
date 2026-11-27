@@ -1,0 +1,1 @@
+export{n as opcoes}from"./opcoes-DYn8GYiN.js";

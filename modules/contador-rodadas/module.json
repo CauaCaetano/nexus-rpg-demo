@@ -1,0 +1,12 @@
+{
+  "id": "contador-rodadas",
+  "title": "Contador de rodadas no chat",
+  "description": "Exemplo de módulo: a cada rodada do combate escreve no chat quantas rodadas e quanto tempo de combate já passaram, e mostra o histórico numa aba própria.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Nexus RPG" }],
+  "compatibility": { "minimum": "0.2.0", "verified": "0.2.0" },
+  "esmodules": ["scripts/contador.js"],
+  "styles": ["estilo.css"],
+  "languages": [{ "lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json" }],
+  "packs": [{ "name": "ajuda", "label": "Ajuda do contador", "type": "journal", "path": "packs/ajuda.json" }]
+}
